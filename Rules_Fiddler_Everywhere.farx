@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2022-06-13T01:49:10.1231793+03:00" FiddlerVersion="5.0.1.0">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="{&quot;matches&quot;:[&quot;%%eyJ0eXBlIjo0LCJjb25kaXRpb24iOiJjb250YWlucyIsInZhbHVlIjoiaHR0cHM6Ly93d3cuY3Rycy5jb20udWEvc21hcnRmb255IiwiY2FzZUluc2Vuc2l0aXZlVmFsdWUiOnRydWUsImNhc2VJbnNlbnNpdGl2ZUtleSI6dHJ1ZSwiaWQiOjB9&quot;],&quot;matchCondition&quot;:1}" Action="[&quot;%%eyJ0eXBlIjo2LCJjb25kaXRpb24iOiJyZXBsYWNlIiwia2V5IjoiIiwidmFsdWUiOiJieXRvdmF5YS10ZXhuaWthIiwiY2FzZUluc2Vuc2l0aXZlS2V5Ijp0cnVlLCJjYXNlSW5zZW5zaXRpdmVWYWx1ZSI6dHJ1ZSwiaWQiOiJhcjQ0ZTdoNWxnaiIsImZpbmQiOiJzbWFydGZvbnkifQ==&quot;]" MaxMatchCount="1" Comment="Citrus" Enabled="false" />
+  </State>
+</AutoResponder>
